@@ -21,8 +21,6 @@ Deactivated plugins remain visible in the WordPress Plugins list, easily reactiv
 
 This plugin **moves the selected plugin(s)** into an archive folder, eliminating accidental reactivations and keeping your plugin list clean.
 
----
-
 ### 🚀 Features
 
 - Archive plugins to hide them from the active list.
@@ -31,13 +29,9 @@ This plugin **moves the selected plugin(s)** into an archive folder, eliminating
 - Maintain plugin settings without deleting them.
 - Easy upload to and retrieval from custom archive directories.
 
----
-
 ## 📸 Screenshots
 
 See screenshots in the [official WordPress repo](https://wordpress.org/extend/plugins/hackrepair-plugin-archiver/screenshots/)
-
----
 
 ## 📥 Installation
 
@@ -53,8 +47,6 @@ See screenshots in the [official WordPress repo](https://wordpress.org/extend/pl
 1. Upload the `wp-plugin-archiver` folder to `/wp-content/plugins/`
 2. Activate the plugin from the WordPress Admin Panel
 
----
-
 ## ❓ Frequently Asked Questions
 
 ### What happens if I deactivate or remove the plugin?
@@ -69,15 +61,11 @@ See screenshots in the [official WordPress repo](https://wordpress.org/extend/pl
 
 > Deleting a plugin can erase its settings or database entries. Archiving preserves plugin state and settings while hiding it from your active list.
 
----
-
 ## 📚 Resources
 
 - [Plugin Homepage & Documentation](https://hackrepair.com/about/hackrepair-plugin-archiver)
 - [WordPress Plugin Page](https://wordpress.org/plugins/hackrepair-plugin-archiver/)
 - [Support Forum](https://wordpress.org/support/hackrepair-plugin-archiver)
-
----
 
 ## ☕ Support the Plugin
 
@@ -85,12 +73,6 @@ If this plugin has saved your bacon (or coffee), consider [buying Jim a coffee](
 
 Every contribution helps plugin developers like us stay caffeinated and continue improving the tools you love!
 
----
-
 ## 📄 License
 
 [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html) — free as in freedom.
-
----
-
-Made with care by [The Hack Repair Guy](https://hackrepair.com)
