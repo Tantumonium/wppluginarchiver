@@ -3,35 +3,28 @@
 
 The WP Plugin Archiver allows you to quickly deactivate & archive WordPress Plugins by moving them out of the WordPress **Plugins** list, while still keeping them readily available for re-installation or re-activation later.
 
+<!--
 [![Download Plugin](https://img.shields.io/badge/Download_on-WordPress.org-blue.svg)](https://wordpress.org/plugins/hackrepair-plugin-archiver/)
-
----
+-->
 
 ##Why use the WP Plugin Archiver?
 
+* This plugin **moves the selected plugin(s)** into an archive folder, eliminating accidental reactivations and keeping your plugin list clean.
 * Maybe you have a set of plugins that you would like to install in all of your WordPress sites, but would rather not have them listed within Plugins (until you need them).
 * Maybe you’ve run into a buggy or possibly compromised plugin, that when activated breaks or causes harm to your website. the WP Plugin Archiver plugin will allow you to simply archive plugins, preventing accidental activation.
 * Maybe you wish to test sets of plugins, pulling different sets of plugins into your plugin list as you need them; all with just a few clicks.
 * Maybe you share management with another administrator who believes the “Activate” link is an invitation to “click it!”
 * With the WP Plugin Archiver, you may even upload or move plugins to your own custom archive directory.
+* Deactivated plugins remain visible in the WordPress Plugins list, easily reactivated by another admin and potentially altering or breaking the website.
 
-### 🔧 Why This Plugin Exists
 
-Deactivated plugins remain visible in the WordPress Plugins list, easily reactivated by another admin and potentially altering or breaking the website.
-
-This plugin **moves the selected plugin(s)** into an archive folder, eliminating accidental reactivations and keeping your plugin list clean.
-
-### 🚀 Features
+## 🚀 Features
 
 - Archive plugins to hide them from the active list.
 - Prevent accidental re-activation of broken or unnecessary plugins.
 - Manage "plugin sets" for staging or development purposes.
 - Maintain plugin settings without deleting them.
 - Easy upload to and retrieval from custom archive directories.
-
-## 📸 Screenshots
-
-See screenshots in the [official WordPress repo](https://wordpress.org/extend/plugins/hackrepair-plugin-archiver/screenshots/)
 
 ## 📥 Installation
 
@@ -44,8 +37,10 @@ See screenshots in the [official WordPress repo](https://wordpress.org/extend/pl
 
 ### Manual Installation
 
-1. Upload the `wp-plugin-archiver` folder to `/wp-content/plugins/`
-2. Activate the plugin from the WordPress Admin Panel
+1. Download a copy of `wp-plugin-archiver.zip` from the [GitHub Repo](https://github.com/Tantumonium/wppluginarchiver)
+2. Unzip the downloaded file
+3. Upload the `wp-plugin-archiver` folder to your site's `/wp-content/plugins/` directory
+4. Activate the plugin from the WordPress Admin Panel
 
 ## ❓ Frequently Asked Questions
 
@@ -61,9 +56,9 @@ See screenshots in the [official WordPress repo](https://wordpress.org/extend/pl
 
 > Deleting a plugin can erase its settings or database entries. Archiving preserves plugin state and settings while hiding it from your active list.
 
+<!-- 
 ## 📚 Resources
 
-- [Plugin Homepage & Documentation](https://hackrepair.com/about/hackrepair-plugin-archiver)
 - [WordPress Plugin Page](https://wordpress.org/plugins/hackrepair-plugin-archiver/)
 - [Support Forum](https://wordpress.org/support/hackrepair-plugin-archiver)
 
@@ -72,7 +67,7 @@ See screenshots in the [official WordPress repo](https://wordpress.org/extend/pl
 If this plugin has saved your bacon (or coffee), consider [buying Jim a coffee](https://hackrepair.com/donations/buy-jim-a-coffee).
 
 Every contribution helps plugin developers like us stay caffeinated and continue improving the tools you love!
-
+-->
 ## 📄 License
 
 [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html) — free as in freedom.
