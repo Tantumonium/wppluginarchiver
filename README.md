@@ -44,15 +44,15 @@ The WP Plugin Archiver allows you to quickly deactivate & archive WordPress Plug
 
 ## ❓ Frequently Asked Questions
 
-### What happens if I deactivate or remove the plugin?
+#### What happens if I deactivate or remove the plugin?
 
 > Nothing happens to your archived plugins. They remain in the archive directory until you choose to restore them manually or via the plugin UI.
 
-### Will you add a “Restore All” or “Unarchive All” feature?
+#### Will you add a “Restore All” or “Unarchive All” feature?
 
 > No. The plugin supports version-aware archiving. Restoring all plugins at once would reintroduce version ambiguity and potential site breakage.
 
-### Why archive instead of delete?
+#### Why archive instead of delete?
 
 > Deleting a plugin can erase its settings or database entries. Archiving preserves plugin state and settings while hiding it from your active list.
 
